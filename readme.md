@@ -1,6 +1,7 @@
-* Projeto para testes
+# Projeto para testes
 
-* utilizando javascript no framework NodeJS
+## utilizando javascript no framework NodeJS
 
-* .env
-# PORT=your_port
+## .env
+* PORT=your_port
+* DATABASE_URL=your_db_path
